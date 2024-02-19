@@ -1,0 +1,30 @@
+C:\Users\ahmed\Desktop\oop project\bin\Debug\oop project.exe.config
+C:\Users\ahmed\Desktop\oop project\bin\Debug\oop project.exe
+C:\Users\ahmed\Desktop\oop project\bin\Debug\oop project.pdb
+C:\Users\ahmed\Desktop\oop project\obj\Debug\oop project.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\oop project\obj\Debug\oop project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\Desktop\oop project\obj\Debug\oop project.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\oop project\obj\Debug\oop project.exe
+C:\Users\ahmed\Desktop\oop project\obj\Debug\oop project.pdb
+C:\Users\MalakAlsayed\Documents\oop project\oop project\obj\Debug\oop project.csproj.AssemblyReference.cache
+C:\Users\MalakAlsayed\Documents\oop project\oop project\obj\Debug\oop project.csproj.CoreCompileInputs.cache
+C:\Users\MalakAlsayed\Documents\oop project\oop project\obj\Debug\oop project.exe
+C:\Users\MalakAlsayed\Documents\oop project\oop project\obj\Debug\oop project.pdb
+C:\Users\MalakAlsayed\Documents\oop project\oop project\bin\Debug\oop project.exe.config
+C:\Users\MalakAlsayed\Documents\oop project\oop project\bin\Debug\oop project.exe
+C:\Users\MalakAlsayed\Documents\oop project\oop project\bin\Debug\oop project.pdb
+C:\Users\ahmed\Desktop\Faculty-management-system-oop-project-\obj\Debug\oop project.csproj.AssemblyReference.cache
+C:\Users\ahmed\Desktop\Faculty-management-system-oop-project-\obj\Debug\oop project.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmed\Desktop\Faculty-management-system-oop-project-\obj\Debug\oop project.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\Faculty-management-system-oop-project-\obj\Debug\oop project.exe
+C:\Users\ahmed\Desktop\Faculty-management-system-oop-project-\obj\Debug\oop project.pdb
+C:\Users\ahmed\Desktop\Faculty-management-system-oop-project-\bin\Debug\oop project.exe.config
+C:\Users\ahmed\Desktop\Faculty-management-system-oop-project-\bin\Debug\oop project.exe
+C:\Users\ahmed\Desktop\Faculty-management-system-oop-project-\bin\Debug\oop project.pdb
+C:\Users\mohamed mohsen\Desktop\Faculty-management-system-oop-project--main\Faculty-management-system-oop-project--main\bin\Debug\oop project.exe.config
+C:\Users\mohamed mohsen\Desktop\Faculty-management-system-oop-project--main\Faculty-management-system-oop-project--main\bin\Debug\oop project.exe
+C:\Users\mohamed mohsen\Desktop\Faculty-management-system-oop-project--main\Faculty-management-system-oop-project--main\bin\Debug\oop project.pdb
+C:\Users\mohamed mohsen\Desktop\Faculty-management-system-oop-project--main\Faculty-management-system-oop-project--main\obj\Debug\oop project.csproj.AssemblyReference.cache
+C:\Users\mohamed mohsen\Desktop\Faculty-management-system-oop-project--main\Faculty-management-system-oop-project--main\obj\Debug\oop project.csproj.CoreCompileInputs.cache
+C:\Users\mohamed mohsen\Desktop\Faculty-management-system-oop-project--main\Faculty-management-system-oop-project--main\obj\Debug\oop project.exe
+C:\Users\mohamed mohsen\Desktop\Faculty-management-system-oop-project--main\Faculty-management-system-oop-project--main\obj\Debug\oop project.pdb
