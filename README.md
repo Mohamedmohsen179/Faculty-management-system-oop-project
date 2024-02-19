@@ -27,4 +27,4 @@ To run the Faculty Management System locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/faculty-management-system.git
+   git clone https://github.com/mohamedmohsen179/Faculty-management-system-oop-project .git
